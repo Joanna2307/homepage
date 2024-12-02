@@ -1,11 +1,14 @@
-#Joanna Gorniak - moja strona 
+# Joanna Gorniak - moja strona 
 
-![Kotek](images/kotek.jpg)
+Hello everybody, my name is Asia and this is my first page.  
 
-##demo
+![Asia](images/asia.png)
 
-https://joanna2307.github.io/homepage/
+## Technologies used:
 
-##Opis
+1. HTML
+2. CSS
+3. Java Script 
 
-Uczę się porgramować.
+## Contact me:
+**E-mail:**  [joanna.gorniak.00@gmail.com](mailto:joanna.gorniak.00@gmail.com)
