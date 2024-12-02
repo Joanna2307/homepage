@@ -1,8 +1,10 @@
 # Joanna Gorniak - moja strona
 
-Hello everybody, my name is Asia and this is my first page.  
+Hello everybody, my name is Asia and this is my first page.
+I am just learning to program.
 
-![Asia](images/Asia.jpg=300x)
+
+<img src="images/Asia.jpg" width="150"/>
 
 ## Technologies used:
 
@@ -12,3 +14,5 @@ Hello everybody, my name is Asia and this is my first page.
 
 ## Contact me:
 **E-mail:** [joanna.gorniak.00@gmail.com](mailto:joanna.gorniak.00@gmail.com)
+
+[Visit my site](https://joanna2307.github.io/homepage/)
