@@ -2,7 +2,7 @@
 
 Hello everybody, my name is Asia and this is my first page.  
 
-![Asia](images/asia.png)
+![Asia](images/Asia.jpg=300x)
 
 ## Technologies used:
 
