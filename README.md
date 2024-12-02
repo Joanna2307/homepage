@@ -1,4 +1,4 @@
-# Joanna Górniak - moja strona 
+# Joanna Gorniak - moja strona
 
 Hello everybody, my name is Asia and this is my first page.  
 
@@ -8,7 +8,7 @@ Hello everybody, my name is Asia and this is my first page.
 
 1. HTML
 2. CSS
-3. Java Script 
+3. JavaScript
 
 ## Contact me:
-**E-mail:**  [joanna.gorniak.00@gmail.com](mailto:joanna.gorniak.00@gmail.com)
+**E-mail:** [joanna.gorniak.00@gmail.com](mailto:joanna.gorniak.00@gmail.com)
