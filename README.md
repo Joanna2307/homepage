@@ -1,4 +1,4 @@
-# Joanna Gorniak - moja strona 
+# Joanna Górniak - moja strona 
 
 Hello everybody, my name is Asia and this is my first page.  
 
