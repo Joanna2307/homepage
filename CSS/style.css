@@ -7,6 +7,7 @@
 .zdanie {color:rgb(6, 6, 59)}
 .akapit {color:blue;
 }
-.zdj{
-    margin: 0 auto;
+.zdj {
+    padding: 20px;
+    margin: auto 0;
 }
