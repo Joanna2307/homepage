@@ -1,4 +1,8 @@
-console.log("Siemka, co tam u was słychać? Jestem na 5 module, uczę się GIT-a");
+function welcome() {
+    console.log("Witam wszystkich przyszłych programistów, właśnie uczę się dodawać funkcje");
+}
+
+welcome();
 
 let przycisk = document.querySelector(".przycisk");
 let zdj = document.querySelector(".zdj")
